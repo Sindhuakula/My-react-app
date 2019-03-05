@@ -1,22 +1,34 @@
-.column {
-    float: left;
-    width: 33.33%;
-    padding: 5px;
-  }
-  
+.Ticket-logo {
+    width: 50%;
+    height: 40%;}
+.Recruit-logo{
+    width: 50%;
+    height: 45%;
+}  
+.Employee-logo{
+    width: 50%;
+    height: 45%;
+}
 .row {
     margin-top: 10%;
   text-align: center;
   font-size: xx-large;
 }
-.col-sm-2 {
+.iconcol {
     padding-top: 35px;
-    border: 5px solid rgb(89, 165, 190) ;
+    border: 5px solid rgb(12, 111, 145) ;
     width: 200px;
     height: 200px;
     border-radius: 50%;
     text-align: center;
+    background: #fff;
 }
-.col-sm-2:hover {
-    border-color:  blue ;
+.iconcol:hover {
+    border-color:  rgb(144, 201, 79) ;
+
 }
+.App-link:hover{
+    color:  rgb(144, 201, 79) ;
+}
+
+
